@@ -1,0 +1,6 @@
+[2025-03-13 17:29:06,405: WARNING: _internal:  * Debugger is active!]
+[2025-03-13 17:29:06,407: INFO: _internal:  * Debugger PIN: 154-757-524]
+[2025-03-13 17:29:12,530: INFO: _internal: 127.0.0.1 - - [13/Mar/2025 17:29:12] "GET / HTTP/1.1" 200 -]
+[2025-03-13 17:29:12,576: INFO: _internal: 127.0.0.1 - - [13/Mar/2025 17:29:12] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2025-03-13 17:29:13,943: INFO: _internal: 127.0.0.1 - - [13/Mar/2025 17:29:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-03-13 17:29:55,794: INFO: _internal: 127.0.0.1 - - [13/Mar/2025 17:29:55] "POST /predict HTTP/1.1" 200 -]

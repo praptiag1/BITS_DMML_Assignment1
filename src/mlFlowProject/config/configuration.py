@@ -98,7 +98,7 @@ class ConfigurationManager:
             all_params=params,
             metric_file_name = config.metric_file_name,
             target_column = schema.name,
-            mlflow_uri="https://dagshub.com/Oyebamiji-Micheal/End-to-End-Customer-Churn-Prediction-using-MLflow-and-DVC.mlflow",  
+            mlflow_uri="https://dagshub.com/praptiag1/BITS_DMML_Assignment1.mlflow",  
         )
 
         return model_evaluation_config

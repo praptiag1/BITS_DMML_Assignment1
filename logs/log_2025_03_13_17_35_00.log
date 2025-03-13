@@ -1,0 +1,5 @@
+[2025-03-13 17:35:00,493: WARNING: _internal:  * Debugger is active!]
+[2025-03-13 17:35:00,495: INFO: _internal:  * Debugger PIN: 154-757-524]
+[2025-03-13 17:35:04,166: INFO: _internal: 127.0.0.1 - - [13/Mar/2025 17:35:04] "GET / HTTP/1.1" 200 -]
+[2025-03-13 17:35:04,229: INFO: _internal: 127.0.0.1 - - [13/Mar/2025 17:35:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2025-03-13 17:35:58,276: INFO: _internal: 127.0.0.1 - - [13/Mar/2025 17:35:58] "POST /predict HTTP/1.1" 200 -]
